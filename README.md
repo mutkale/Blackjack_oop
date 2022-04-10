@@ -1,2 +1,2 @@
-# Blackjack_oop
+# Blackjack
 Olio-ohjelmoinnin harjoitustyö
